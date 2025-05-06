@@ -1,6 +1,6 @@
 # AI Fundamentals: Essential Concepts for Agent Implementation
 
-**`This document provides foundational knowledge for AI agent implementation, with a focus on concepts relevant to building a payment processor integration agent. The field is rapidly evolving, so staying current with research and best practices is essential.`**
+**`This document provides foundational knowledge for AI agent implementation. The field is rapidly evolving, so staying current with research and best practices is essential.`**
 
 ---
 
