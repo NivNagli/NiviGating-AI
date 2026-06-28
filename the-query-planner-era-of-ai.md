@@ -276,7 +276,7 @@ The utility layer is not glamorous, but it is where a lot of real automation liv
 
 ### 2. The Domain Layer
 
-This is where your previous map-drawing work becomes essential.
+[This is where your previous map-drawing work becomes essential.](http://github.com/NivNagli/NiviGating-AI/blob/main/from-gps-to-intuition.md)
 
 A general model can be brilliant and still arrive as a tourist. It needs directions. It needs your domain explained again. It needs your conventions, invariants, failure playbooks, and business rules injected into context.
 
